@@ -47,13 +47,13 @@ Project Management Portfolio
 a food ordering client-server application for BBQ Tonight. The Customers can order food from  three platforms the Android/IOS application, Website and Call Center (CRM)
 For the Website and Mobile App, a backend admin panel was designed which performs as a layer between the Mobile app, website ordering, and POS. A cross-platform, Android /IOS-based App designed in Flutter, It has advanced features like geo-fencing, Branches in customer radius, branch switch option etc
 
-![EEG Band Discovery](/assets/img/BBQ web.jpg)
+![BBQ Tonight Webpage](/assets/img/BBQ web.jpg)
 
 ### Biometric Verification Service named as “Bio-Verisys” for Samba Bank - 2023
 Samba Bank to utilize NADRA Bioverisys service for senior citizens where finger print verification is unsuccessful.
 The Bank can use this service for fingerprint verification for Branch Bank Account creation for Senior Citizens aged 60 and above. The biometric data of the Primary Citizen Number is sent to Bio-Verisys which will verify the citizen through the provided fingerprint. In the case of Senior citizens, if fingerprints are not verified in max 3 attempts within a Session, then the service will return the verification URL. An additional verification would be carried out through Secret Questions by navigating to the provided encrypted Verification URL.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bio-Verisys](/assets/samba biometric verification.JPG)
 
 ## Samba bank Que management system
 - Queue Management Systems (QMS) was a technology-driven solution that optimised customer flow and enhanced service efficiency in various sectors, specifically banks
