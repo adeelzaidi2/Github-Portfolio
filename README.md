@@ -34,29 +34,27 @@ For the Website and Mobile App, a backend admin panel was designed which perform
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Biometric Verification Service named as “Bio-Verisys” for Samba Bank - 2023
-
 Samba Bank to utilize NADRA Bioverisys service for senior citizens where finger print verification is unsuccessful.
 The Bank can use this service for fingerprint verification for Branch Bank Account creation for Senior Citizens aged 60 and above. The biometric data of the Primary Citizen Number is sent to Bio-Verisys which will verify the citizen through the provided fingerprint. In the case of Senior citizens, if fingerprints are not verified in max 3 attempts within a Session, then the service will return the verification URL. An additional verification would be carried out through Secret Questions by navigating to the provided encrypted Verification URL.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Samba bank Que management system
-
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- Queue Management Systems (QMS) was a technology-driven solution that optimised customer flow and enhanced service efficiency in various sectors, specifically banks
+- Main featuers
+  1. Reduced Waiting Times
+  2. Personalized Service
+  3. Increased Customer Satisfaction
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+  
 ## Easyshop Project launch and rollout in Karachi - (2015 - 2017)
 - Finding 50 locations for Easyshop (Telenor Branded Mini Franchise) in Karachi
 - Shop legal work i.e agreements etc with business partner
 - Hiring & Training Resources
-- 
+- Making outlets profitable with the optimum level of company product services
 
 ## Telenor Easypaisa (Mobile banking/Branchless banking rollout in South
-Project UET at Telenor Islamabad headquarter
-Responsible for Easy Paisa Launch in the region with staff training and & Retailer conventions
-Feedback to the core team for improvement
+- Project UET at Telenor Islamabad headquarter
+- Responsible for Easy Paisa Launch in the region with staff training and & Retailer conventions
+- Feedback to the core team for improvement
