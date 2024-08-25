@@ -29,7 +29,8 @@ Project Management Portfolio
 ## Projects
 ### RMS Restaurant Management System App Deployment at BBQ - 2023
 a food ordering client-server application for BBQ Tonight. The Customers can order food from  three platforms the Android/IOS application, Website and Call Center (CRM)
-For the Website and Mobile App, a backend admin panel was designed which performs as a layer between the Mobile app, website ordering, and POS. The backend panel will be performing multiple operations for the integration i.e. Item management, Customer info, branch management, Geo-fencing, review management, BI Component and Reporting. API to RMS sync menu and driver management system and pull back data to the backend server.
+For the Website and Mobile App, a backend admin panel was designed which performs as a layer between the Mobile app, website ordering, and POS. A cross-platform, Android /IOS-based App designed in Flutter, It has advanced features like geo-fencing, Branches in customer radius, branch switch option etc
+
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
