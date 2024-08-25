@@ -47,7 +47,7 @@ Project Management Portfolio
 a food ordering client-server application for BBQ Tonight. The Customers can order food from  three platforms the Android/IOS application, Website and Call Center (CRM)
 For the Website and Mobile App, a backend admin panel was designed which performs as a layer between the Mobile app, website ordering, and POS. A cross-platform, Android /IOS-based App designed in Flutter, It has advanced features like geo-fencing, Branches in customer radius, branch switch option etc
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![BBQ Tonight](/assets/img/BBQ web.jpeg)
 
 ### Biometric Verification Service named as “Bio-Verisys” for Samba Bank - 2023
 Samba Bank to utilize NADRA Bioverisys service for senior citizens where finger print verification is unsuccessful.
