@@ -18,16 +18,18 @@ Project Management Portfolio
 - Data Collection, Cleaning and Analysis with (MySQL & Excel) 
 - Reporting, Visualization and Data Interpretation with (Power BI)
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Operation Manager | Feb 2020 – Mar 2023**
+-  Overseeing daily business operations of software house.
+-  Developing and implementing growth strategies.
+-  Goal setting and Task planning (ClickUp).
+-  Evaluating performance and productivity.
+-  Efficient resource management.
+-  Report formulation and presentation to top management.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
+### RMS Restaurant Management System App Deployment at BBQ - 2023
+a food ordering client-server application for BBQ Tonight. The Customers can order food from  three platforms the Android/IOS application, Website and Call Center (CRM)
+For the Website and Mobile App, a backend admin panel was designed which performs as a layer between the Mobile app, website ordering, and POS. The backend panel will be performing multiple operations for the integration i.e. Item management, Customer info, branch management, Geo-fencing, review management, BI Component and Reporting. API to RMS sync menu and driver management system and pull back data to the backend server.
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
