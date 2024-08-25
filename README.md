@@ -11,12 +11,12 @@ Project Management Portfolio
 
 ## Work Experience
 **Project Manager & Data Analyst | Feb 2023 – To Date**
- Project Planning and Execution. 
- Budget and Risk Management. 
- Goal Setting and Task Planning in online tool (ClickUp). 
- Project Deliverance and Stakeholder Management. 
- Data Collection, Cleaning and Analysis with (MySQL & Excel) 
- Reporting, Visualization and Data Interpretation with (Power BI)
+- Project Planning and Execution. 
+- Budget and Risk Management. 
+- Goal Setting and Task Planning in online tool (ClickUp). 
+- Project Deliverance and Stakeholder Management. 
+- Data Collection, Cleaning and Analysis with (MySQL & Excel) 
+- Reporting, Visualization and Data Interpretation with (Power BI)
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
